@@ -1,1 +1,3 @@
 Learning Git
+
+Making changes to the file and learning to update changes.
