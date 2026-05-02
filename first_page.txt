@@ -1,3 +1,5 @@
 Learning Git
 
 Making changes to the file and learning to update changes.
+
+Making changes directly in the github.
