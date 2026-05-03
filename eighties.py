@@ -15,3 +15,4 @@ eighties[2] = (remember)
 
 lol = 'lol means laughed out loudly'
 print(lol)
+print("yo i added this in github lwky")
